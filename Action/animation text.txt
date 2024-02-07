@@ -1,0 +1,212 @@
+HTML_________________________________________________________________________________________________________________
+
+<div class="ag-animate-text-block">
+  <div class="ag-format-container">
+    <div class="ag-toggle_tagline">
+      rotate-1
+    </div>
+
+    <div class="cd-headline rotate-1 ag-toggle_title">
+      The best
+      <span class="cd-words-wrapper">
+        <b class="is-visible">design</b>
+        <b class="is-hidden">site</b>
+        <b class="is-hidden">code</b>
+      </span>
+    </div>
+
+    <div class="ag-toggle_tagline">
+      push loading-bar
+    </div>
+
+    <div class="cd-headline push loading-bar ag-toggle_title">
+      The best
+      <span class="cd-words-wrapper">
+        <b class="is-hidden">design</b>
+        <b class="is-hidden">site</b>
+        <b class="is-visible">code</b>
+      </span>
+    </div>
+
+    <div class="ag-toggle_tagline">
+      slide
+    </div>
+
+    <div class="cd-headline slide ag-toggle_title">
+      The best
+      <span class="cd-words-wrapper">
+        <b class="is-hidden">design</b>
+        <b class="is-hidden">site</b>
+        <b class="is-visible">code</b>
+      </span>
+    </div>
+
+    <div class="ag-toggle_tagline">
+      clip
+    </div>
+
+    <div class="cd-headline clip ag-toggle_title">
+      The best
+      <span class="cd-words-wrapper">
+        <b class="is-hidden">design</b>
+        <b class="is-hidden">site</b>
+        <b class="is-visible">code</b>
+      </span>
+    </div>
+
+    <div class="ag-toggle_tagline">
+      zoom
+    </div>
+
+    <div class="cd-headline zoom ag-toggle_title">
+      The best
+      <span class="cd-words-wrapper">
+        <b class="is-hidden">design</b>
+        <b class="is-hidden">site</b>
+        <b class="is-visible">code</b>
+      </span>
+    </div>
+
+    <div class="ag-toggle_tagline">
+      push
+    </div>
+
+    <div class="cd-headline push ag-toggle_title">
+      The best
+      <span class="cd-words-wrapper">
+        <b class="is-hidden">design</b>
+        <b class="is-hidden">site</b>
+        <b class="is-visible">code</b>
+      </span>
+    </div>
+
+    <div class="ag-toggle_tagline">
+      letters type
+    </div>
+
+    <div class="cd-headline letters type ag-toggle_title">
+      The best
+      <span class="cd-words-wrapper">
+        <b class="is-hidden">design</b>
+        <b class="is-hidden">site</b>
+        <b class="is-visible">code</b>
+      </span>
+    </div>
+
+    <div class="ag-toggle_tagline">
+      letters scale type
+    </div>
+
+    <div class="cd-headline letters scale type ag-toggle_title">
+      The best
+      <span class="cd-words-wrapper">
+        <b class="is-hidden">design</b>
+        <b class="is-hidden">site</b>
+        <b class="is-visible">code</b>
+      </span>
+    </div>
+
+    <div class="ag-toggle_tagline">
+      letters rotate-2 type
+    </div>
+
+    <div class="cd-headline letters rotate-2 type ag-toggle_title">
+      The best
+      <span class="cd-words-wrapper">
+        <b class="is-hidden">design</b>
+        <b class="is-hidden">site</b>
+        <b class="is-visible">code</b>
+      </span>
+    </div>
+
+    <div class="ag-toggle_tagline">
+      letters rotate-3 type
+    </div>
+
+    <div class="cd-headline letters rotate-3 type ag-toggle_title">
+      The best
+      <span class="cd-words-wrapper">
+        <b class="is-hidden">design</b>
+        <b class="is-hidden">site</b>
+        <b class="is-visible">code</b>
+      </span>
+    </div>
+  </div>
+</div>
+
+CSS_______________________________________________________________________________________________________________________________________
+
+.ag-format-container {
+  width: 1142px;
+  margin: 0 auto;
+}
+
+
+body {
+  background-color: #000;
+}
+.ag-animate-text-block {
+  margin: 50px 0;
+}
+.ag-toggle_title {
+  line-height: 1.2;
+  margin: 0 0 50px;
+
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+  color: #FFF;
+}
+.ag-toggle_tagline {
+  margin: 0 0 20px;
+
+  text-align: center;
+  font-size: 20px;
+  color: #FFF;
+}
+.cd-words-wrapper {
+  color: #e5e128;
+}
+
+
+
+@media only screen and (max-width: 767px) {
+  .ag-format-container {
+    width: 96%;
+  }
+
+}
+
+@media only screen and (max-width: 639px) {
+  .ag-toggle_title {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (max-width: 479px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+  .ag-format-container {
+    width: 750px;
+  }
+
+}
+
+@media (min-width: 980px) and (max-width: 1161px) {
+  .ag-format-container {
+    width: 960px;
+  }
+
+}
+
+//
+
+(function ($) {
+  $(function () {
+
+    
+
+  });
+})(jQuery);
